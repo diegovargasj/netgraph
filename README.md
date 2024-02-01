@@ -4,7 +4,7 @@ Connects different IP addresses using traffic from a pcap file.
 ## Install
 
 ```
-git clone 
+git clone https://github.com/diegovargasj/netgraph.git
 cd netgraph
 pip install -r requirements.txt
 ```
